@@ -1,0 +1,9 @@
+VisualCode v1.0
+
+Copyright (C) 2014 Carlo Farina
+The program is a semi-free software.
+Are allowed to redistribute copies with or without changes to the source code, only NOT for profit.
+
+This program is distributed in the hope that it is useful
+but WITHOUT ANY WARRANTY; without even the implied warranty
+of FITNESS 'FOR A PARTICULAR PURPOSE.
